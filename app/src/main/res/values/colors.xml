@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="PrimaryColor">#4FDAD7</color>
+    <color name="OnPrimaryColor">#ABB4E7</color>
+    <color name="SecondaryColor">#70E3D6</color>
+    <color name="OnSecondaryColor">#ABB4E7</color>
+    <color name="SurfaceColor">#FFFFFF</color>
+    <color name="OnSurfaceColor">#E5FDFB</color>
+    <color name="BackgroundColor">#2E4552</color>
+    <color name="OnBackgroundColor">#CACACA</color>
+    <color name="bg">#FBFAFF</color>
+
+    <!--PrimaryColor: #4FDAD7
+    OnPrimaryColor: #ABB4E7
+    SecondaryColor: #70E3D6
+    OnSecondaryColor: #ABB4E7
+    SurfaceColor: #FFFFFF
+    OnSurfaceColor: #E5FDFB
+    BackgroundColor: #2E4552
+    OnBackgroundColor: #CACACA-->
+</resources>
